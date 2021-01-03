@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Freeform blog (stream-of-conciousness) with interests such as science, theoretical physics, philosophy, business, and deep learning. 
 
 ### More Information
 
