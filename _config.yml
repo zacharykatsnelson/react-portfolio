@@ -6,7 +6,7 @@
 name: Zachary Katsnelson's Website
 
 # Short bio or description (displayed in the header)
-description: Freeform blog about interests such as science, philosophy, and deep learning. 
+description: Freeform blog with interests such as science, theoretical physics, philosophy, business, and deep learning. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "/images/candidate.jpg"
@@ -21,7 +21,7 @@ footer-links:
   email: neutrinu@outlook.com
   facebook:
   flickr:
-  github: https://github.com/zacharykatsnelson
+  github: zacharykatsnelson
   instagram:
   linkedin:
   pinterest:
