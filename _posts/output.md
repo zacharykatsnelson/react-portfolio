@@ -1,6 +1,7 @@
-How I Built A Lo-fi Hip-Hop Music Generator
-===========================================
-
+---
+layout: post
+title: How I Built A Lo-fi Hip-Hop Music Generator
+---
 Using LSTMs and Recurrent Neural Networks
 -----------------------------------------
 
