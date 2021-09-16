@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.82bc8cd5.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.ee360105.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ee360105.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.3304df30.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.3304df30.js.map",
+    "static/css/2.83a0339c.chunk.css": "/react-portfolio/static/css/2.83a0339c.chunk.css",
+    "static/js/2.5a1f62bd.chunk.js": "/react-portfolio/static/js/2.5a1f62bd.chunk.js",
+    "static/js/2.5a1f62bd.chunk.js.map": "/react-portfolio/static/js/2.5a1f62bd.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.83a0339c.chunk.css.map": "/react-portfolio/static/css/2.83a0339c.chunk.css.map",
+    "static/css/main.82bc8cd5.chunk.css.map": "/react-portfolio/static/css/main.82bc8cd5.chunk.css.map",
+    "static/js/2.5a1f62bd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5a1f62bd.chunk.js.LICENSE.txt",
+    "static/media/avatar.13d02500.png": "/react-portfolio/static/media/avatar.13d02500.png",
+    "static/media/earth.a08c82a6.jpg": "/react-portfolio/static/media/earth.a08c82a6.jpg",
+    "static/media/font-awesome.css": "/react-portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/image1.e5cc5381.jpg": "/react-portfolio/static/media/image1.e5cc5381.jpg",
+    "static/media/image2.918e02fd.jpg": "/react-portfolio/static/media/image2.918e02fd.jpg",
+    "static/media/image3.dab09f29.jpg": "/react-portfolio/static/media/image3.dab09f29.jpg",
+    "static/media/image4.0208209b.jpg": "/react-portfolio/static/media/image4.0208209b.jpg",
+    "static/media/image5.064bdceb.jpg": "/react-portfolio/static/media/image5.064bdceb.jpg",
+    "static/media/image6.d815fbd7.jpg": "/react-portfolio/static/media/image6.d815fbd7.jpg",
+    "static/media/ionicons.css": "/react-portfolio/static/media/ionicons.b45d332f.svg",
+    "static/media/kickstarter.49609ca0.gif": "/react-portfolio/static/media/kickstarter.49609ca0.gif",
+    "static/media/map.aeef5b68.png": "/react-portfolio/static/media/map.aeef5b68.png",
+    "static/media/model_.9be05250.jpg": "/react-portfolio/static/media/model_.9be05250.jpg",
+    "static/media/stock1.38f3c853.png": "/react-portfolio/static/media/stock1.38f3c853.png",
+    "static/media/stock2.579fdc78.png": "/react-portfolio/static/media/stock2.579fdc78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3304df30.js",
+    "static/css/2.83a0339c.chunk.css",
+    "static/js/2.5a1f62bd.chunk.js",
+    "static/css/main.82bc8cd5.chunk.css",
+    "static/js/main.ee360105.chunk.js"
+  ]
+}
